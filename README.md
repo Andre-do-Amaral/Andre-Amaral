@@ -16,10 +16,9 @@
 
 ## Onde me encontrar?
 
-- 🐍 Python 
-- 📈 Excel
-- 📊 PowerBI
-- ❇️ Minitab
-- 👨🏼‍💻 Análise de Dados
+- [Linkedin](https://www.linkedin.com/in/andre-amaral-gb/) 
 
+## Meus Projetos
+
+ - Em construção desta parte
 
