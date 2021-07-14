@@ -1,15 +1,25 @@
-# Hi, I'm André 👨🏼‍💻
+# Olá, eu sou o André 👨🏼‍💻
 
-<!--## Who am I?
+## Quem sou eu?
 
-- 🔭 Data Scientist ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Estudante de Data Science.
+- Bacharel em Engenharia Mecânica Aeronáutica - UNIFEI.
+- Professor Particular.
+
+## Skills
+
+- 🐍 Python 
+- 📈 Excel
+- 📊 PowerBI
+- ❇️ Minitab
+- 👨🏼‍💻 Análise de Dados
+
+## Onde me encontrar?
+
+- 🐍 Python 
+- 📈 Excel
+- 📊 PowerBI
+- ❇️ Minitab
+- 👨🏼‍💻 Análise de Dados
 
 
--->
