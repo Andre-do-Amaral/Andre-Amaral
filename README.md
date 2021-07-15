@@ -20,5 +20,5 @@
 
 ## Meus Projetos
 
- - [Previsão se Cliente é Premium (Modelo de Classificação Binária)] ()
+ - [Previsão se Cliente é Premium (Modelo de Classificação Binária)] (https://github.com/Andre-do-Amaral/Analise-de-Cliente/blob/main/Analise_de_Cliente_Classifica%C3%A7ao.ipynb)
 
