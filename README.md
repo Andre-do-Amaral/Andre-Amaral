@@ -20,5 +20,5 @@
 
 ## Meus Projetos
 
- - Em construção desta parte
+ - [Previsão se Cliente é Premium (Modelo de Classificação Binária)] ()
 
