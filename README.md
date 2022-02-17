@@ -3,7 +3,7 @@
 ## Quem sou eu?
 
 - Estudante de Data Science.
-- Formando como Bacharel em Engenharia Mecânica Aeronáutica - UNIFEI.
+- Bacharel em Engenharia Mecânica Aeronáutica - UNIFEI.
 - Professor Particular.
 
 ## Skills
